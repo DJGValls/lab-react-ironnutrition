@@ -4,7 +4,7 @@ import FoodBox from './components/FoodBox';
 import AddFoodForm from './components/AddFoodForm';
 import Search from './components/Search';
 //styles imports
-import { Card, Row, Col, Divider, Input, Button } from 'antd';
+import { Card, Button } from 'antd';
 import './App.css';
 
 
